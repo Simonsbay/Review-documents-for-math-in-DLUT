@@ -6,6 +6,8 @@
 
 This repository is dedicated to sharing review materials for mathematics major courses at Dalian University of Technology (DLUT), including notes, exercise solutions, past exam papers, and knowledge summaries to help math majors study more effectively.
 
+**📖 新手？请阅读 [快速开始指南](QUICK_START.md) / New here? Read the [Quick Start Guide](QUICK_START.md)**
+
 ## 📂 仓库结构 / Repository Structure
 
 ```
